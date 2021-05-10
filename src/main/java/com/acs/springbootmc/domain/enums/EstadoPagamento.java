@@ -2,7 +2,7 @@ package com.acs.springbootmc.domain.enums;
 
 public enum EstadoPagamento {
 
-	PENTENTE(1, "Pendente"),
+	PENDENTE(1, "Pendente"),
 	QUITADO(2, "Quitado"),
 	CANCELADO(3, "Cancelado");
 
